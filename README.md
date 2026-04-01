@@ -1,4 +1,8 @@
 <h2 align="left">👋 Olá! Eu sou o Gabriel, desenvolvedor Front-end em evolução 🚀</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel4C3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4C3&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 <p align="left">
 💡 Migrando de Marketing para Programação <br>
 📚 Estudando todos os dias <br>
@@ -7,10 +11,7 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel4C3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel4C3&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
+
 
 
 
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
 
 
 <br clear="both">
