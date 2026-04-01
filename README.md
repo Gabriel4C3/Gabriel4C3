@@ -1,13 +1,14 @@
 <h2 align="left">👋 Olá! Eu sou o Gabriel, desenvolvedor Front-end em evolução 🚀</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel4C3&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel4C3&layout=compact&theme=tokyonight"/>
-</div>
+
 <p align="left">
 💡 Migrando de Marketing para Programação <br>
 📚 Estudando todos os dias <br>
 🎯 Buscando minha primeira oportunidade como dev
 </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel4C3&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel4C3&layout=compact&theme=tokyonight"/>
+</div>
 
 
 
