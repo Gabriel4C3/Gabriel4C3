@@ -42,5 +42,4 @@
 
 <img src="https://raw.githubusercontent.com/Gabriel4C3/Gabriel4C3/output/snake.svg" alt="Snake animation" />
 
-
-![Snake animation](https://github.com/Gabriel4C3/Gabriel4C3/blob/output/github-contribution-grid-snake.svg)
+###
