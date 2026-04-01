@@ -1,9 +1,14 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel Carvalho</h1><p align="center">
-  🚀 Em transição para Desenvolvedor Front-end <br>
- <p align="center">
-💡 Migrando da área de Marketing para Programação  
- <p align="center">
-  💻 HTML • CSS • JavaScript • Git <br>
+  🚀 Em transição de carreira para Desenvolvedor Front-end <br><br>💡 Venho da área de Marketing, onde desenvolvi habilidades como organização, pensamento estratégico e resolução de problemas — hoje aplicadas no desenvolvimento de software <br><br>
+
+💻 Atualmente construo projetos com HTML, CSS e JavaScript, focando em código limpo, responsividade e boas práticas <br><br>
+
+⚙️ Utilizo Git e GitHub no dia a dia para versionamento e evolução contínua dos projetos <br><br>
+
+📚 Estudo diariamente com foco em consistência e evolução constante <br><br>
+
+🎯 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e crescer na área criando soluções reais
+
 </p>
 <p align="center">
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel4C3&show_icons=true&theme=tokyonight"/>
