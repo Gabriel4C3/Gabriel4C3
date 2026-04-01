@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel</h1><p align="center">
+<h1 align="center">👋 Olá, eu sou o Gabriel Carvalho</h1><p align="center">
   🚀 Em transição para Desenvolvedor Front-end <br>
  <p align="center">
 💡 Migrando da área de Marketing para Programação  
