@@ -22,9 +22,9 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
   <a href="https://www.instagram.com/gabriel_carvalho.brito?igsh=cno2Mm1zZGNrcWR6" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="Gabrielcarvalho20111@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="mailto:Gabrielcarvalho20111@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
+ </a>
 </div>
 
 ###
