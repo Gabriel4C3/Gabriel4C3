@@ -2,7 +2,7 @@
   🚀 Em transição para Desenvolvedor Front-end <br>
  <p align="center">
 💡 Migrando da área de Marketing para Programação  
- </p align="center">
+ <p align="center">
   💻 HTML • CSS • JavaScript • Git <br>
 </p>
 <p align="center">
