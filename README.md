@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 <h1 align="center">👋 Olá, eu sou o Gabriel!</h1><p align="center">
   🚀 Em transição para Desenvolvedor Front-end <br>
   💻 Estudando HTML, CSS e JavaScript <br>
