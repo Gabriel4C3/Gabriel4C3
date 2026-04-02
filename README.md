@@ -27,7 +27,7 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
  </a>
 </div>
 
-###
+
 <p align="center">
 </p>
 <img src="https://raw.githubusercontent.com/Gabriel4C3/Gabriel4C3/output/snake.svg" alt="Snake animation" />
