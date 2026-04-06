@@ -26,7 +26,7 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
  </a>
 </div>
-
+.
 
 <p align="center">
 </p>
