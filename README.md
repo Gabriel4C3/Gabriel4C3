@@ -12,7 +12,7 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
-<div align="center" justify="center">
+<p align="center">
   <a href="https://discord.gg/EFu9ruz7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -25,7 +25,8 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
   <a href="mailto:Gabrielcarvalho20111@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
  </a>
-</div>
+ </p>
+
 
 
 <p align="center">
