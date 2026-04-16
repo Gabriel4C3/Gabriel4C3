@@ -14,16 +14,16 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
 </p>
 <p align="center">
   <a href="https://discord.gg/EFu9ruz7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-carvalho-06b9b017a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/gabriel_carvalho.brito" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" style="margin: 0 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:Gabrielcarvalho20111@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
 </p>
 
