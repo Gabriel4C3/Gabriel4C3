@@ -12,7 +12,7 @@ Atualmente em transição de carreira para o desenvolvimento Front-end, trago co
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </p>
-<div align="center">
+<div justify="center">
   <a href="https://discord.gg/EFu9ruz7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
